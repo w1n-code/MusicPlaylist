@@ -1,6 +1,6 @@
 import { PlaylistData } from './types'
 
-const nolyrics = "(가사는 일부곡의 좋아하는 일부분만)"
+// const nolyrics = "(가사는 일부곡의 좋아하는 일부분만)"
 const year_lyrics = "(연도별 곡은 몇개만 적어둠)"
 const guitar = "많아서 좋아하는 곡들만"
 const guitar_lyrics = "(기타는 위에 두 곡만 의미 있고 나머진 딱히)"
