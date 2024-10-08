@@ -7,6 +7,7 @@ export default function Home() {
       <PlaylistComponent playlistId="2021-2023" title="Playlist: 2021~2023년" />
       <PlaylistComponent playlistId="양태원의 머리 속" title="Playlist: 양태원의 머리 속" />
       <PlaylistComponent playlistId="기타" title="Playlist: 기타 연주했던 곡 모음" />
+      <PlaylistComponent playlistId="나머지" title="노래 외" />
     </main>
   )
 }
